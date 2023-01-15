@@ -9,7 +9,6 @@ TODO:
     [+] Create a express server (server.js)
 
     [+] do frontend part
-
     [+] Install socket.io, Setup socket.io in server.js and client client.js
 
     [+] Client send message logic in client.js
